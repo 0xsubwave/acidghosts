@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="The Acid Ghosts" />
+        <img src="acid-ghosts.svg" alt="the acid ghosts">
         <p className="description">
-          <code>coming soon.</code>
+          <code><a href="https://discord.gg/JcVvfctSF4">Discord</a></code>
         </p>
       </main>
 
