@@ -13,11 +13,11 @@ export default function Home() {
       <main>
         <Header title="the acid ghosts" />
         <p className="description">
-          <Link href="https://discord.gg/JcVvfctSF4">
+          <a href="https://discord.gg/JcVvfctSF4">
             <code>
               Discord
             </code>
-          </Link>
+          </a>
         </p>
       </main>
 
