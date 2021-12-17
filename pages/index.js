@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="" />
         <p>
-          <img src="/acid-ghosts.svg" alt="the acid ghosts" />
+          <img class="o-9" src="/acid-ghosts.svg" alt="the acid ghosts" />
         </p>
         <p className="description">
           <a href="https://discord.gg/JcVvfctSF4">
