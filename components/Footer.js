@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        🔮 soon.
+        🔮 5,888 ghosts, coming soon.
       </footer>
     </>
   )
