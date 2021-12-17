@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="the acid ghosts" />
+        <Header title="" />
         <p>
           <img src="/acid-ghosts.svg" alt="the acid ghosts" />
         </p>
